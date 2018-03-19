@@ -166,3 +166,5 @@ release includes:
 Chen Sun, Menglong Zhu, Matthew Tang, Anoop Korattikara, Alireza Fathi, Ian Fischer, Zbigniew Wojna, Yang Song, Sergio Guadarrama, Jasper Uijlings,
 Viacheslav Kovalevskyi, Kevin Murphy
 
+
+https://worldbrain.slack.com/messages/D9S4RH9KP/
